@@ -21,7 +21,7 @@ app.get('/ipv4', (req, res) => {
 
 app.get('/checkip', function (req, res) {
     const ipAddresses = req.header('x-forwarded-for');
-    res.json({ message: `IP: ${ipAddresses}` });
+    return res.json({ message: `IP: ${ipAddresses}` });
 });
 
 function convertFloat(inputNumber) {
