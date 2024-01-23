@@ -19,6 +19,11 @@ app.get('/ipv4', (req, res) => {
     return res.json({ message: `Hello! Your IP address is: ${ipAddress}` });
 });
 
+app.get('/checkip', function (req, res) {
+    const ipAddresses = req.header('x-forwarded-for');
+    res.json({ message: `IP: ${ipAddresses}` });
+});
+
 function convertFloat(inputNumber) {
     const floatNumber = parseFloat(inputNumber);
 
