@@ -108,6 +108,24 @@ const dataHuy1 = [
         }
     },
     {
+        apiKey: 'xvI7ZIAFbMZiZjjgG7',
+        secretKey: 'yApuT9dOnx7e2bj1XusoWrkHtJ2e7r2sGPLU',
+        proxy: {
+            host: "qna03.vitechcheap.com",
+            port: 28063,
+            auth: { username: "user_gnkogl", password: "hbwy0u7t" },
+        }
+    },
+    {
+        apiKey: '51REqXomETz79hq1pD',
+        secretKey: 'vFqN7Esp3GuW77nDuhpSWzq22seoMClB8Ljr',
+        proxy: {
+            host: "qna03.vitechcheap.com",
+            port: 28069,
+            auth: { username: "user_gnkogl", password: "hbwy0u7t" },
+        }
+    },
+    {
         apiKey: 'ub2KFS2CEgqQkzwAXv',
         secretKey: '16TkpUInDqXiRqNlPF1sodUhiXuIqHd6NkQ4',
         proxy: {

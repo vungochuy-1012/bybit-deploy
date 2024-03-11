@@ -423,6 +423,7 @@ app.get('/tradeLoopMul', async (req, res) => {
     // loop
     async function processElements(arrData) {
         for (const element of arrData) {
+            console.log('apiKey', element.apiKey);
             await trade(element.apiKey, element.secretKey, element.proxy);
         }
     }
