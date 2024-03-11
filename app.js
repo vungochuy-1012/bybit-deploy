@@ -55,9 +55,9 @@ app.get('/hehe', (req, res) => {
         },
         {
             proxy: {
-                host: "qna03.vitechcheap.com",
-                port: 28069,
-                auth: { username: "user_gnkogl", password: "hbwy0u7t" },
+                host: "157.15.84.43",
+                port: 10050,
+                auth: { username: "2902oxbhad", password: "onet.com.vn" },
             },
         }
     );
