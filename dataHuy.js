@@ -31,7 +31,7 @@ const dataHuy1 = [
         secretKey: 'FuEx7NuI8GozpXFIBxbH4ROxDJW9fv43Cvej',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28068,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -40,7 +40,7 @@ const dataHuy1 = [
         secretKey: 'Js6sxuchyhib7ZpsInUZfy6JhSUAUk8tvOI4',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28068,
+            port: 28063,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -49,7 +49,7 @@ const dataHuy1 = [
         secretKey: 'Pd7aVPDILa7WHJA3Wp9mq6znallIHlFRI4eU',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28063,
+            port: 28069,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -58,7 +58,7 @@ const dataHuy1 = [
         secretKey: 'WdLBeeh5jypbHmP1vZFhippKJCRpZHSew8KA',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28052,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -67,7 +67,7 @@ const dataHuy1 = [
         secretKey: 'goQGS1X2M4g0Z06ORgXhaod1WiqjvrVSOI9H',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28074,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -76,7 +76,7 @@ const dataHuy1 = [
         secretKey: 'MyMVr2osrwGsCOmBRiw1AeqGMlXeu0yv7frn',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28068,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -85,7 +85,7 @@ const dataHuy1 = [
         secretKey: 'GpOKPgZ8xAs6M1JkjmdPC3MMusJTmaimrQcg',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28063,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -103,7 +103,7 @@ const dataHuy1 = [
         secretKey: 'btakQB4KnZL8hPek73L1wD99ohskUVumCbRW',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28052,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -112,7 +112,7 @@ const dataHuy1 = [
         secretKey: '16TkpUInDqXiRqNlPF1sodUhiXuIqHd6NkQ4',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28074,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -121,7 +121,7 @@ const dataHuy1 = [
         secretKey: 'pygenAHtTQcK0Elgu04nEB75oMfvsRPMJy1H',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28068,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -130,7 +130,7 @@ const dataHuy1 = [
         secretKey: 'trXOtzGDZZ5JCf7kZN08GZxDxujhBLUa7MDk',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28063,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -148,7 +148,7 @@ const dataHuy1 = [
         secretKey: '9f1VSmbByTATDXFoAbR4lPRSvBuTYhMnzDqU',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28052,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -157,7 +157,7 @@ const dataHuy1 = [
         secretKey: 'TEgYJLtmfkPVh91HmK3QmYpEaguuOHYlrnvD',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28074,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     },
@@ -166,7 +166,7 @@ const dataHuy1 = [
         secretKey: 'jrpVnTcK2I8xHqyCW8qCkTTHvXdw9THk6vGW',
         proxy: {
             host: "qna03.vitechcheap.com",
-            port: 28069,
+            port: 28068,
             auth: { username: "user_gnkogl", password: "hbwy0u7t" },
         }
     }
